@@ -64,19 +64,19 @@ h1 {
   filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
 }
 
-img[src*="./puppies2.webp"] {
+img[src*="puppies2.webp"] {
   object-position: 70% 100%;
 }
 
-img[src*="./dog.jpg"] {
+img[src*="dog.jpg"] {
   object-position: 75% 100%;
 }
 
-img[src*="./bear.jpg"] {
+img[src*="bear.jpg"] {
   object-position: 75% 100%;
 }
 
-img[src*="./flatten.jpg"] {
+img[src*="flatten.jpg"] {
   object-position: 35% 100%;
 }
 
